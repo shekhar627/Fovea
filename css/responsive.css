@@ -1,0 +1,93 @@
+/* mobile */
+@media only screen and (max-width : 767px) {
+    .header_image{height: 500px; }
+    .header_main_content img{margin-top: 5%;width: 55%;margin-left: 22%;}
+    
+    
+    .custom_panel{height: 1150px;margin-top: 40px;}
+    .panel1{height: 350px;}
+    .panel2{height: 350px;}
+    .panel3{height: 350px;}
+    
+    
+    
+    .features{height: 700px;}
+
+    .availability{height: 400px;}
+    .availability_social ul{list-style: none;margin-left: 120px;}
+    .availability_social ul li a{text-decoration: none;font-size: 20px;padding: 5px 5px;color: black;}
+    
+    
+    .form_section{height: 670px;}
+    .custom_form_text{margin-top: 10px;}
+    
+    .custom_form form input{border-radius: 0px;height: 30px;}
+    .custom_form form textarea{border-radius: 0px;}
+    .custom_form form label{font-weight: normal;color: antiquewhite;}
+    
+
+    
+}
+
+/* tablet */
+@media only screen and (min-width : 768px) {
+    .header_image{height: 750px; }
+     .header_main_content img{margin-top: 5%;width: 55%;margin-left: 22%;}
+    
+    
+
+    
+     .custom_panel{height: 1950px;margin-top: 40px;}
+    .panel1{height: 630px;}
+    .panel2{height: 630px;}
+    .panel3{height: 630px;}
+    
+    .features{height: 700px;}
+    
+    .availability{height: 400px;}
+    .availability_social ul{list-style: none;margin-left: 240px;}
+    .availability_social ul li a{text-decoration: none;font-size: 30px;padding: 10px 20px;color: black;}
+    
+    .form_section{height: 680px;}
+    .custom_form_text{margin-top: 10px;}
+    .custom_form form input{border-radius: 0px;height: 30px;}
+    .custom_form form textarea{border-radius: 0px;}
+    .custom_form form label{font-weight: normal;color: antiquewhite;}
+    
+
+        
+}
+
+
+/* medium desktop */
+@media only screen and (min-width : 992px) {
+    .header_image{height: 450px; }
+    .header_main_content img{margin-top: 10%;width: 85%;margin-left: 0%;}
+    
+     .custom_panel{height: 400px;   margin-top: 120px;}
+    .panel1{height: 380px;}
+    .panel2{height: 380px;}
+    .panel3{height: 380px;}
+    
+    .features{height: 400px;}
+    
+    .availability{height: 300px;}
+    .availability_social ul{list-style: none;margin-left: 200px;}
+    .availability_social ul li a{text-decoration: none;font-size: 30px;padding: 10px 20px;color: black;}
+    
+    .form_section{height: 700px;}
+    .custom_form_text{margin-top: 250px;}
+    
+    .custom_form form input{border-radius: 0px;height: 50px;}
+    .custom_form form textarea{border-radius: 0px;}
+    .custom_form form label{font-weight: normal;color: antiquewhite;}
+
+    
+    
+    
+}
+
+/* large desktop */
+@media only screen and (min-width : 1200px) {
+
+}
